@@ -75,9 +75,9 @@ Risks to resolve:
 
 ## Recommended identity architecture
 
-1. **Primary:** Couture Serif wordmark.
+1. **Primary:** Approved feminine line-art emblem with refined LENGTA wordmark.
 2. **Secondary:** Custom Signature Monogram, developed from the approved wordmark's letterform logic.
-3. **Tagline lockup:** LENGTA / OWN THE BEAUTY.
+3. **Tagline lockup:** LENGTA / WEAR YOUR BEAUTY.
 4. **Utility:** A restrained wordmark-only version for small digital and garment applications.
 
 Do not combine all elements into one mandatory lockup. The identity must have flexible responsive versions.
@@ -109,7 +109,7 @@ Score each refined route against:
 - Performance in one colour.
 - Suitability for embroidery, woven labels, foil, embossing and hardware.
 - Digital legibility and responsive use.
-- Alignment with OWN THE BEAUTY.
+- Alignment with WEAR YOUR BEAUTY. and the OWN THE BEAUTY. philosophy.
 
 ## Required design deliverables before approval
 
@@ -133,7 +133,7 @@ Score each refined route against:
 
 ## Current decision
 
-No logo route is approved. Couture Serif is the recommended direction to refine first, with the Signature Monogram developed as a companion asset after the wordmark structure is established. Architectural Modern remains a credible alternative until the route is selected.
+The brand owner approved the supplied feminine fine-line silhouette and LENGTA wordmark composition as the visual direction. Preserve that design. The remaining work is technical vector refinement, outlined lettering, export production and reproduction testing—not a new concept selection.
 
 ## Guardrails
 
