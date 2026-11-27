@@ -1,0 +1,43 @@
+{
+  "brand": "LENGTA",
+  "tagline": "OWN THE BEAUTY.",
+  "logo_direction_status": "approved_by_brand_owner",
+  "approval_date": "2026-11-28",
+  "package_status": "incomplete_exports_pending",
+  "primary_reference": {
+    "description": "Brand-owner supplied feminine fine-line silhouette, champagne LENGTA wordmark and tagline on an Obsidian/Blood Wine editorial background",
+    "resolution": "1536x1024",
+    "repository_file": false,
+    "note": "Original image is not yet committed as a binary asset."
+  },
+  "assets": [
+    {
+      "path": "assets/logo/lengta-primary-vector-concept.svg",
+      "format": "SVG",
+      "status": "committed",
+      "role": "editable scalable vector interpretation",
+      "limitations": [
+        "Not a pixel-identical trace of the approved reference",
+        "Wordmark uses system serif font fallback",
+        "Not yet an outlined production master"
+      ]
+    }
+  ],
+  "brand_palette": {
+    "obsidian": "#09090B",
+    "blood_wine": "#5A1026",
+    "oxblood": "#32101C",
+    "bone": "#F2EAE2",
+    "antique_champagne": "#B89A72"
+  },
+  "pending_formats": ["PNG", "JPG", "WebP", "PDF", "EPS"],
+  "production_checks_pending": [
+    "commit original high-resolution source image",
+    "finalize outlined wordmark",
+    "refine and verify silhouette vector",
+    "transparent and monochrome variants",
+    "small-size reproduction tests",
+    "print and hardware production checks"
+  ],
+  "separation_rule": "LENGTA is independent; do not merge with VYRA, SAXI or ParisShoes."
+}
