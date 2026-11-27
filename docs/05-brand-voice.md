@@ -5,7 +5,10 @@ LENGTA speaks with confidence, tension, and control. It is provocative without b
 
 Traits: direct, fearless, sensual, self-possessed, and respectful.
 
-## Core message
+## Primary tagline
+**WEAR YOUR BEAUTY.**
+
+## Brand philosophy
 **OWN THE BEAUTY.**
 
 The woman is the owner of her beauty and her decisions. LENGTA creates the fashion; she decides how, when, and where to wear it.
@@ -17,7 +20,10 @@ The woman is the owner of her beauty and her decisions. LENGTA creates the fashi
 4. Your beauty, your terms: confidence is personal, not a performance.
 
 ## Copy bank
-### Tagline
+### Primary tagline
+WEAR YOUR BEAUTY.
+
+### Brand philosophy
 OWN THE BEAUTY.
 
 ### Brand lines
@@ -30,7 +36,7 @@ OWN THE BEAUTY.
 - Never ordinary. Always yours.
 
 ### Homepage hero — Option A
-OWN THE BEAUTY.
+WEAR YOUR BEAUTY.
 Intimate fashion for women who choose to stand apart.
 Explore LENGTA.
 
