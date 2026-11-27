@@ -1,7 +1,8 @@
 # LENGTA Logo Package
 
 **Brand:** LENGTA  
-**Tagline:** OWN THE BEAUTY.  
+**Tagline:** WEAR YOUR BEAUTY.
+**Brand philosophy:** OWN THE BEAUTY.  
 **Identity status:** Logo direction approved by the brand owner on 2026-11-28.  
 **Package status:** SVG artwork committed; source-image and additional binary exports still need to be added.
 
