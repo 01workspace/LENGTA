@@ -5,7 +5,8 @@ This file is the operating brief for AI assistants, designers, developers, and c
 ## Source of truth
 - Repository: https://github.com/01workspace/LENGTA
 - Brand: LENGTA
-- Tagline: OWN THE BEAUTY.
+- Tagline: WEAR YOUR BEAUTY.
+- Brand philosophy: OWN THE BEAUTY.
 - Audience: adults 18+.
 - Treat the latest approved files in this repository as the source of truth.
 - If a brief conflicts with an approved brand document, flag the conflict rather than silently changing the brand.
