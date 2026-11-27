@@ -8,7 +8,7 @@
 
 ## Decision — do not redesign
 
-The brand owner selected the logo composition they supplied in the project conversation. It features a fine-line feminine silhouette/profile with flowing hair and curves, a warm champagne LENGTA wordmark, the exact tagline **OWN THE BEAUTY.**, and a dark Obsidian / Blood Wine editorial setting.
+The brand owner selected the logo composition they supplied in the project conversation. It features a fine-line feminine silhouette/profile with flowing hair and curves, a warm champagne LENGTA wordmark, the exact tagline **WEAR YOUR BEAUTY.** The brand philosophy remains **OWN THE BEAUTY.**, and a dark Obsidian / Blood Wine editorial setting.
 
 Treat that submitted composition as the approved visual reference. Preserve its concept and overall proportions. Do not restart the logo exploration or substitute a generic monogram, Venus symbol, lingerie pictogram, crown, lips or unrelated icon.
 
