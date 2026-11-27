@@ -1,5 +1,5 @@
 # LENGTA
-## OWN THE BEAUTY.
+## WEAR YOUR BEAUTY.
 
 LENGTA is a bold, seductive, unapologetic luxury intimate-fashion brand for adult women who choose to be seen, set their own limits, and wear beauty on their own terms.
 
@@ -8,6 +8,8 @@ LENGTA is a bold, seductive, unapologetic luxury intimate-fashion brand for adul
 ## Brand at a glance
 - Category: premium women's intimate fashion.
 - Character: bold, seductive, fearless, provocative, luxurious.
+- Tagline: WEAR YOUR BEAUTY.
+- Brand philosophy: OWN THE BEAUTY.
 - Promise: Own your beauty. Own your choice.
 - Audience: adult women drawn to expressive, daring fashion.
 - Visual world: dark editorial glamour, sharp contrast, sculptural silhouettes.

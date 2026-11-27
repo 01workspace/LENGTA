@@ -1,5 +1,5 @@
 # LENGTA Brand Identity Guidelines
-**OWN THE BEAUTY.**  
+**WEAR YOUR BEAUTY.**  
 *Foundation edition · 2026*
 
 > A house of provocative luxury.
@@ -7,7 +7,8 @@
 ## 1. Brand essence
 
 **Brand:** LENGTA  
-**Tagline:** OWN THE BEAUTY.  
+**Tagline:** WEAR YOUR BEAUTY.
+**Brand philosophy:** OWN THE BEAUTY.  
 **Category:** Luxury women's intimate fashion  
 **Audience:** Adults 18+, with a core fashion customer aged approximately 25–40.  
 **Positioning:** A provocative luxury label for women who choose how they express their beauty.
@@ -58,7 +59,7 @@ Use Obsidian and Bone as the structural foundation. Blood Wine and Oxblood bring
 ### Logo system
 - **Primary:** Custom LENGTA wordmark in a refined high-contrast serif, uppercase and carefully spaced.
 - **Secondary:** Compact L monogram derived from a folded-ribbon or interlocking-couture-strap gesture.
-- **Lockup:** Wordmark with OWN THE BEAUTY. beneath it, used for brand moments rather than every product touchpoint.
+- **Lockup:** Wordmark with WEAR YOUR BEAUTY. beneath it, used for brand moments rather than every product touchpoint.
 - The final logo must be custom-drawn and optically corrected. A typed font is only a prototype, not the finished mark.
 
 ### Logo usage
@@ -94,7 +95,7 @@ Build focused capsules with a clear concept, signature material, colour story an
 **Voice:** Confident, concise, sensual, intelligent. Never apologetic, crude, juvenile or over-explained.
 
 Message examples:
-- **OWN THE BEAUTY.**
+- **WEAR YOUR BEAUTY.**
 - Made to be yours.
 - Elegance with an edge.
 - Your presence. Your rules.
