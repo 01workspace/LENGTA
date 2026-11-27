@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
-  <title id="title">LENGTA — OWN THE BEAUTY.</title>
+  <title id="title">LENGTA — WEAR YOUR BEAUTY.</title>
   <desc id="desc">A fine-line feminine profile and flowing silhouette above the LENGTA wordmark and tagline.</desc>
   <defs>
     <style>
@@ -36,5 +36,5 @@
     <circle cx="718" cy="575" r="4" fill="#B89A72" stroke="none"/>
   </g>
   <text x="600" y="895" text-anchor="middle" class="word" font-size="112">LENGTA</text>
-  <text x="600" y="954" text-anchor="middle" class="tag">OWN THE BEAUTY.</text>
+  <text x="600" y="954" text-anchor="middle" class="tag">WEAR YOUR BEAUTY.</text>
 </svg>
