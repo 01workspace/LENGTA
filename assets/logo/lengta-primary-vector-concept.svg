@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
+  <title id="title">LENGTA — WEAR YOUR BEAUTY.</title>
+  <desc id="desc">A fine-line feminine profile and flowing silhouette above the LENGTA wordmark and tagline.</desc>
+  <defs>
+    <style>
+      .champagne{stroke:#B89A72;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .word{fill:#F2EAE2;font-family:'Bodoni 72','Bodoni MT','Didot',serif;font-weight:400;letter-spacing:18px}
+      .tag{fill:#B89A72;font-family:Arial,sans-serif;font-size:25px;letter-spacing:12px}
+    </style>
+  </defs>
+  <rect width="1200" height="1000" fill="#09090B"/>
+  <g class="champagne" stroke-width="3.2">
+    <!-- Hair and profile -->
+    <path d="M455 370 C405 335 414 256 470 211 C500 187 522 153 543 117 C557 93 579 85 600 100 C622 117 626 145 614 169"/>
+    <path d="M469 352 C435 309 454 250 503 214 C535 190 548 154 566 126 C581 103 604 106 614 127"/>
+    <path d="M502 359 C471 324 478 274 518 242 C548 219 564 188 575 158"/>
+    <path d="M602 117 C628 132 639 154 631 179 C625 198 613 209 600 222 C620 232 635 246 644 265 C653 283 667 293 686 299"/>
+    <path d="M685 299 C696 302 700 311 695 319 C691 326 681 330 670 330"/>
+    <path d="M671 330 C679 341 677 351 668 357"/>
+    <path d="M668 357 C657 366 642 365 630 359"/>
+    <path d="M632 359 C625 373 615 384 602 392"/>
+    <!-- Neck, shoulder, torso and waist contours -->
+    <path d="M610 389 C617 430 639 457 674 476 C718 500 759 522 785 557 C808 588 807 630 786 662 C765 693 735 716 709 739"/>
+    <path d="M594 397 C575 444 566 485 572 526 C579 574 600 619 600 665 C600 709 579 744 548 777"/>
+    <path d="M545 778 C524 809 510 836 506 865"/>
+    <path d="M710 739 C691 766 675 794 668 824"/>
+    <path d="M471 354 C438 391 414 430 397 474 C377 527 375 578 397 617 C416 651 451 671 486 678"/>
+    <path d="M486 678 C512 682 535 673 553 654"/>
+    <path d="M555 468 C534 503 526 542 535 579 C545 619 564 651 576 680"/>
+    <path d="M576 680 C587 711 577 742 556 768"/>
+    <!-- Fine circular gesture -->
+    <path d="M455 386 C393 423 355 488 348 559 C339 656 397 744 486 777" opacity=".78"/>
+    <path d="M727 411 C796 452 839 524 842 606 C845 672 815 728 766 770" opacity=".78"/>
+    <!-- Delicate abstract paired dots -->
+    <circle cx="691" cy="560" r="7" fill="#B89A72" stroke="none"/>
+    <circle cx="718" cy="575" r="4" fill="#B89A72" stroke="none"/>
+  </g>
+  <text x="600" y="895" text-anchor="middle" class="word" font-size="112">LENGTA</text>
+  <text x="600" y="954" text-anchor="middle" class="tag">WEAR YOUR BEAUTY.</text>
+</svg>
