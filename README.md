@@ -20,6 +20,16 @@ LENGTA is a bold, seductive, unapologetic luxury intimate-fashion brand for adul
 - [Design tokens](design-tokens.json) — initial machine-readable brand palette and visual direction
 - [Asset library guidance](assets/README.md) — structure, approvals, and usage-rights tracking
 
+## Logo and website banner package
+A source ZIP containing the supplied LENGTA logo artwork and five website banners has been prepared from the original image files.
+
+- Package: `LENGTA-LOGO-AND-WEBSITE-BANNERS.zip`
+- Contents: one logo composition (1536 × 1024) and five website banners (1536 × 864 each).
+- GitHub account attribution for this repository handoff: **@01workspace** (authenticated connected account).
+- **Repository status:** the ZIP is prepared locally but has not yet been committed to this repository; do not treat this note as proof that the archive is available from GitHub.
+- Usage gate: confirm creator, license/permission, and model-release status before commercial use.
+- This package handoff does not authorize changes to or publication of the live website.
+
 ## Brand documents
 - [Brand concept and positioning](docs/01-brand-concept.md)
 - [Brand kit and visual identity](docs/02-brand-kit.md)
