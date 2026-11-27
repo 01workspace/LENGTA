@@ -20,6 +20,7 @@ LENGTA is a bold, seductive, unapologetic luxury intimate-fashion brand for adul
 - [Product and collection direction](docs/04-product-direction.md)
 - [Voice and messaging](docs/05-brand-voice.md)
 - [Launch roadmap](docs/06-launch-roadmap.md)
+- [Complete brand identity guidelines](docs/07-brand-identity-guidelines.md)
 
 ## Principles
 1. Choice before provocation.
