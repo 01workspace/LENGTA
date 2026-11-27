@@ -1,0 +1,31 @@
+{
+  "brand": "LENGTA",
+  "tagline": "OWN THE BEAUTY.",
+  "status": "working-direction",
+  "colors": {
+    "obsidian": "#09090B",
+    "bloodWine": "#5A1026",
+    "oxblood": "#32101C",
+    "bone": "#F2EAE2",
+    "antiqueChampagne": "#B89A72"
+  },
+  "typography": {
+    "display": {
+      "direction": "high-contrast editorial serif",
+      "status": "not-selected"
+    },
+    "body": {
+      "direction": "clean contemporary sans-serif",
+      "status": "not-selected"
+    }
+  },
+  "visualDirection": {
+    "mood": ["provocative luxury", "dark editorial glamour", "fashion-forward"],
+    "imageStyle": ["professional fashion photography", "dramatic controlled lighting", "material and garment detail"],
+    "status": "working-direction"
+  },
+  "notes": [
+    "Palette values are approved starting colors; typography choices are not final.",
+    "Do not treat this file as a complete production design system until spacing, typography, component, and accessibility tokens are validated."
+  ]
+}
