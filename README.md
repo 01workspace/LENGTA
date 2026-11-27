@@ -13,6 +13,11 @@ LENGTA is a bold, seductive, unapologetic luxury intimate-fashion brand for adul
 - Visual world: dark editorial glamour, sharp contrast, sculptural silhouettes.
 - Relationship to VYRA: twin-brand concept; independent identity and expression.
 
+## Project source files
+- [AI working guide](AI_WORKING_GUIDE.md) — operating rules and cross-tool project context
+- [Design tokens](design-tokens.json) — initial machine-readable brand palette and visual direction
+- [Asset library guidance](assets/README.md) — structure, approvals, and usage-rights tracking
+
 ## Brand documents
 - [Brand concept and positioning](docs/01-brand-concept.md)
 - [Brand kit and visual identity](docs/02-brand-kit.md)
