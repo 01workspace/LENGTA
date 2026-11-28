@@ -1,6 +1,6 @@
 {
   "brand": "LENGTA",
-  "tagline": "WEAR YOUR BEAUTY.",
+  "tagline": "OWN THE BEAUTY.",
   "brandPhilosophy": "OWN THE BEAUTY.",
   "status": "working-direction",
   "colors": {
@@ -11,14 +11,8 @@
     "antiqueChampagne": "#B89A72"
   },
   "typography": {
-    "display": {
-      "direction": "high-contrast editorial serif",
-      "status": "not-selected"
-    },
-    "body": {
-      "direction": "clean contemporary sans-serif",
-      "status": "not-selected"
-    }
+    "display": { "direction": "high-contrast editorial serif", "status": "not-selected" },
+    "body": { "direction": "clean contemporary sans-serif", "status": "not-selected" }
   },
   "visualDirection": {
     "mood": ["provocative luxury", "dark editorial glamour", "fashion-forward"],
@@ -27,6 +21,6 @@
   },
   "notes": [
     "Palette values are approved starting colors; typography choices are not final.",
-    "Do not treat this file as a complete production design system until spacing, typography, component, and accessibility tokens are validated."
+    "Do not treat this file as a complete production design system until spacing, typography, component and accessibility tokens are validated."
   ]
 }
