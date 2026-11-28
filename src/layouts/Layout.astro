@@ -1,0 +1,81 @@
+---
+import "../styles/global.css";
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+}
+const {
+  title,
+  description = "LENGTA — OWN THE BEAUTY. Luxury intimate fashion for adult women.",
+  image = "/assets/campaign-01-hero.webp"
+} = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#09090B" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content={image} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="/assets/lengta-logo.webp" />
+</head>
+<body>
+  <div class="announcement">LENGTA — INTIMATE FASHION <span>✦</span> OWN THE BEAUTY.</div>
+  <header class="site-header">
+    <a class="brandmark" href="/" aria-label="LENGTA home">
+      <img src="/assets/lengta-logo.webp" alt="LENGTA" width="1079" height="783" />
+    </a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <a href="/collection/">THE COLLECTION</a>
+      <a href="/about/">OUR PHILOSOPHY</a>
+      <a href="/#campaigns">CAMPAIGNS</a>
+    </nav>
+    <a class="header-action" href="/collection/">DISCOVER <span>↗</span></a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false">☰</button>
+  </header>
+  <nav class="mobile-nav" aria-label="Mobile navigation">
+    <a href="/collection/">THE COLLECTION</a>
+    <a href="/about/">OUR PHILOSOPHY</a>
+    <a href="/#campaigns">CAMPAIGNS</a>
+  </nav>
+  <main><slot /></main>
+  <footer class="site-footer">
+    <div class="footer-top">
+      <a class="brandmark footer-mark" href="/" aria-label="LENGTA home">
+        <img src="/assets/lengta-logo.webp" alt="LENGTA — Own the Beauty" width="1079" height="783" loading="lazy" />
+      </a>
+      <p>OWN THE BEAUTY.<br /><small>YOUR BODY. YOUR TERMS.</small></p>
+      <a class="back-top" href="#top">BACK TO TOP ↑</a>
+    </div>
+    <div class="footer-bottom">
+      <span>© {new Date().getFullYear()} LENGTA. ALL RIGHTS RESERVED.</span>
+      <span>INDEPENDENT. UNAPOLOGETIC. YOURS.</span>
+      <span>18+ · INTIMATE FASHION</span>
+    </div>
+  </footer>
+  <script>
+    const toggle = document.querySelector<HTMLButtonElement>(".menu-toggle");
+    const mobile = document.querySelector<HTMLElement>(".mobile-nav");
+    toggle?.addEventListener("click", () => {
+      const open = toggle.getAttribute("aria-expanded") === "true";
+      toggle.setAttribute("aria-expanded", String(!open));
+      toggle.setAttribute("aria-label", open ? "Open navigation" : "Close navigation");
+      mobile?.classList.toggle("is-open", !open);
+    });
+    mobile?.querySelectorAll("a").forEach((link) => link.addEventListener("click", () => {
+      toggle?.setAttribute("aria-expanded", "false");
+      toggle?.setAttribute("aria-label", "Open navigation");
+      mobile.classList.remove("is-open");
+    }));
+  </script>
+</body>
+</html>
